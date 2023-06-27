@@ -1,2 +1,2 @@
-# Visualization_for_multiple_Liner_Regression
-Visualization_for_multiple_Liner_Regression
+# Visualization-for-multiple-Liner-Regression
+Visualization-for-multiple-iner-Regression
